@@ -7,7 +7,7 @@
 
 #pragma once
 #include <frc2/command/button/JoystickButton.h>
-#include <frc/XboxController.h>
+#include <frc/Controller.h>
 #include <frc/Joystick.h>
 #include <frc2/command/Command.h>
 #include "ctre/Phoenix.h"
